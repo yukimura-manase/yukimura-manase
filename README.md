@@ -4,11 +4,9 @@
 
 2. My favorites are React, TypeScript, Docker, LangChain,ShellScript
 
-3. You can find my Tech Blog at [No Change No Life I/O](https://masanyon.com/)
+3. You can find my Tech Blog at <a href="https://masanyon.com/" target="_blank" rel="noopener noreferrer">No Change No Life I/O</a>
 
-4. You can find my Zenn Blog [here](https://zenn.dev/manase)
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
+4. You can find my Zenn Blog <a href="https://zenn.dev/manase" target="_blank" rel="noopener noreferrer">here</a>
 
 ## Programming Languages
 
